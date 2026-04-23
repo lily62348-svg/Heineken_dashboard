@@ -1,4 +1,4 @@
-# ONE TAP — Off Premise Analysis Dashboard
+# ONE TAP — Market Data Dashboard
 
 HEINEKEN Korea 내부용 오프 프리미스 시장 분석 대시보드입니다.
 
