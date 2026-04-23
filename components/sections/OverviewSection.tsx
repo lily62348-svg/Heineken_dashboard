@@ -53,7 +53,7 @@ export default function OverviewSection({ data, s, e }: Props) {
 
       {/* Charts row */}
       <Box sx={{ display: "grid", gridTemplateColumns: { xs: "1fr", md: "1fr 1fr" }, gap: "14px", mb: "14px" }}>
-        <ChartCard title="회사별 IPS M/S 추이" sub={tag}>
+        <ChartCard title="COMPANY별 IPS M/S 추이" sub={tag}>
           <LineChartWidget data={coLineData} series={coSeries} />
         </ChartCard>
         <ChartCard title="기간 평균 M/S 비교" sub="선택 기간 평균값">
