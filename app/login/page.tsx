@@ -64,7 +64,7 @@ export default function LoginPage() {
       >
         <Box sx={{ textAlign: "center", mb: 1 }}>
           <Box sx={{ color: "#1a6b1a", fontWeight: 700, fontSize: 20, letterSpacing: 1 }}>
-            ONE TAP
+            ONE TAP ADMIN
           </Box>
           <Box sx={{ color: "#666", fontSize: 12, mt: 0.5 }}>
             HEINEKEN Korea · Internal Dashboard
