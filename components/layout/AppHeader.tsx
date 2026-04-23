@@ -73,7 +73,7 @@ export default function AppHeader({ currentMonth }: Props) {
               textTransform: "uppercase",
             }}
           >
-            Off Premise Analysis
+            Market Data Dashboard 1
           </Box>
           <Box sx={{ fontWeight: 300, color: "#666", fontSize: "11px", letterSpacing: "2px" }}>
             Korea IPS Beer Market
