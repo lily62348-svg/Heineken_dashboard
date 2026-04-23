@@ -93,7 +93,7 @@ export default function DashboardClient() {
           "& strong": { color: "#fff" },
         }}
       >
-        <strong>ONE TAP by CMI</strong> · Off Premise Analysis · Korea IPS Beer Market ·{" "}
+        <strong>ONE TAP by CMI</strong> · Market Data Dashboard 1 · Korea IPS Beer Market ·{" "}
         <strong>HEINEKEN Korea</strong> · FOR INTERNAL USE ONLY
       </Box>
     </Box>
